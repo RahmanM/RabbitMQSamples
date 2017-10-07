@@ -1,0 +1,12 @@
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\bin\Debug\RabbitQueueSample.exe.config
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\bin\Debug\RabbitQueueSample.exe
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\bin\Debug\RabbitQueueSample.pdb
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\bin\Debug\RabbitMQ.Client.dll
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\bin\Debug\RabbitMQ.Client.xml
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\obj\Debug\RabbitQueueSample.csprojResolveAssemblyReference.cache
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\obj\Debug\RabbitQueueSample.exe
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\obj\Debug\RabbitQueueSample.pdb
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\bin\Debug\Newtonsoft.Json.dll
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueueSample\bin\Debug\Newtonsoft.Json.xml

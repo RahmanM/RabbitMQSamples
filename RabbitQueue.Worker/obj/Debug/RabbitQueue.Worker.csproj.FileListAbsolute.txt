@@ -1,0 +1,10 @@
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\bin\Debug\RabbitQueue.Worker.exe.config
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\bin\Debug\RabbitQueue.Worker.exe
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\bin\Debug\RabbitQueue.Worker.pdb
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\bin\Debug\RabbitMQ.Client.dll
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\bin\Debug\RabbitMQ.Client.xml
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\obj\Debug\RabbitQueue.Worker.csprojResolveAssemblyReference.cache
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\obj\Debug\RabbitQueue.Worker.exe
+E:\Rahman\Projects\RabbitQueueSample\RabbitQueue.Worker\obj\Debug\RabbitQueue.Worker.pdb
