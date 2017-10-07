@@ -1,4 +1,4 @@
-Example of Worker Queue
+# Example of Worker Queue
 
 - The publisher publishes messages
 - Workers picking the messages in round robin fashion
@@ -11,7 +11,8 @@ To test:
  RabbitQueue.Publisher "new message"
  
 
-Example of the RPC client and Server:
+# Example of the RPC client and Server:
+
 - Client is sending message to server and waiting for long running message
 - Server process the request and sends the message to "Response" Queue
 - Client is reading the message from the "Response" Queue and processing using the CorrelatedId of the message
